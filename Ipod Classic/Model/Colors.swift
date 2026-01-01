@@ -8,7 +8,6 @@
 import Foundation
 import SwiftUI
 
-
 extension Color {
     static let grayColor = Color("customWhite")
 }
